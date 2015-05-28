@@ -1,6 +1,8 @@
 CodeIgniter-PDF-Generator-Library
 =================================
 
+_Deprecated: Looking for a new maintainer for this package. Open an issue if interested._
+
 Generate PDF's in CodeIgniter using this easy to use library based on domPDF.
 
 Installation
